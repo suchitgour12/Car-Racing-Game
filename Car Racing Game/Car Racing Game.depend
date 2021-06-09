@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1623240593 source:d:\shuchit gaur\pratice code blocks\car racing game\main.cpp
+	<iostream>
+	<math.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<fstream>
+	<string>
+	<ctime>
+
